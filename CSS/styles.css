@@ -1,0 +1,146 @@
+body{
+    background-color:#e0ebe8;
+    text-align:center;
+   margin:0;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    /*font-family: 'My Soul', cursive;*/
+    font-family: 'Sacramento', cursive;
+    color:#4ab19a;
+    font-size: 50px; 
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.end-text{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+div{
+    background-color:#e0ebe8; 
+    
+}
+p{
+    color:#4ab19a;
+}
+.top-cloud{
+    position:relative;
+    left:250px;
+    /*position:absolute;
+    right:0px;*/
+    width:130px;
+}
+.bottom-cloud{
+    position:relative;
+    right:250px;
+    /*position:absolute;
+   left:0;
+   bottom:0;*/
+    width:130px;
+}
+.top-container{
+    width:500px;
+    padding-top:80px;
+    padding-right:50px;
+    padding-left:50px;
+    text-align: center;
+    /*position:relative;*/
+}
+.mountain{
+    width:650px;
+    height:220px;
+}
+
+
+hr.dotted-line{
+    width:20%;
+    border-style:dotted none none none;
+    border-width:5px;
+    border-color:#b2bdbb;
+}
+hr.normal-line{
+    border-style:solid none none none;
+    border-color:#4ab19a;
+    border-width:2px;
+    width:70%;
+    margin-top:0px;
+}
+
+a.btn{
+    border-style:solid;
+    border-color:#4ab19a;
+    background-color:#4ab19a;
+    color:white;
+    padding:10px;
+}
+a.footer-link{
+    border-style:solid;
+    text-decoration:none;
+    color:white;
+    background-color:#4ab19a;
+    padding:15px;
+    margin:50px;
+}
+.middle-container, .profile, .skills, .skill-row, .contact-me{
+    background-color:white;
+}
+.footer-link{
+    border-style:solid;
+    border-color:#4ab19a;
+}
+div.index{
+    height:80px;
+    position:sticky;
+    top:0;
+    border-style:none none solid none;
+    border-color:#4ab19a;
+    
+}
+.dots3{
+    width:40px;
+    height:40px;
+    position:absolute;
+    bottom:0px;
+    left:1040px;
+}
+.pic{
+    width:65px;
+    height:65px;
+    position:absolute;
+    bottom:0px;
+    left:300px;
+}
+.resume{
+    text-decoration:none;
+    font-family:arial;
+    color:#4ab19a;
+    position:relative;
+    top:60px;
+    left:260px;
+   /* top:55px;
+    left:280px;*/
+    
+    
+}
+.mobile{
+    text-decoration:none;
+    font-family:arial;
+    color:#4ab19a;
+    position:relative;
+    top:60px;
+    left:280px;
+   /* top:55px;
+    left:300px;*/
+}
+.rights{
+    text-decoration:none;
+}
